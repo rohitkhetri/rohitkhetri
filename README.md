@@ -7,7 +7,7 @@
 ⚡ Fun fact about me: I love hanging around communities and listening music🎧
 📫 How to reach me rohitkhetri2002@gmail.com
 
-<!--
+
 **rohitkhetri/rohitkhetri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
