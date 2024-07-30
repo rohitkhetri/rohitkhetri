@@ -1,23 +1,8 @@
 ### Hi👋, I'm Rohit Rajkumar Khetri: 👋
 
-🔭 I’m a Student of Bachelor's of Science(Information Technolgy)
-😄 Pronouns: He/Him
-🌱 I’m currently learning Android and DSA.
-💬 Ask me about Android Development.
-⚡ Fun fact about me: I love hanging around communities and listening music🎧
-📫 How to reach me rohitkhetri2002@gmail.com
-
-
-**rohitkhetri/rohitkhetri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- 🔭 I’m a Student of Bachelor's of Science(Information Technolgy)
+- 😄 Pronouns: He/Him
+- 🌱 I’m currently learning Android and DSA.
+- 💬 Ask me about Android Development.
+- ⚡ Fun fact about me: I love hanging around communities and listening music.
+- 📫 How to reach me: rohitkhetri2002@gmail.com / 7823827959
