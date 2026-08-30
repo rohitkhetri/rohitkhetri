@@ -225,18 +225,11 @@ Performance & Debugging
 
 # 📚 Currently Learning
 
+* ⚛️ React / React Native
 * 🧠 Data Structures & Algorithms
 * 🏗️ Mobile System Design
 * ⚙️ Advanced Flutter
-* 🌐 Node.js & Backend Development
-* ⚛️ React / React Native
-* ☁️ Cloud & Backend Technologies
-
----
-
-# 📊 GitHub Stats
-
-![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohitkhetri\&show_icons=true\&theme=tokyonight)
+* ☁️ Backend Technologies
 
 ---
 
@@ -244,7 +237,7 @@ Performance & Debugging
 
 📧 **Email:** [rohitkhetri2002@gmail.com](mailto:rohitkhetri2002@gmail.com)
 
-💼 **LinkedIn:** Add your LinkedIn profile
+💼 **LinkedIn:** [Add your LinkedIn profile](https://www.linkedin.com/in/rohitkhetri/)
 
 💻 **GitHub:** github.com/rohitkhetri
 
