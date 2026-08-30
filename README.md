@@ -8,19 +8,19 @@ I have experience working with **REST APIs, Firebase, state management, payment 
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-* 📱 **Mobile App Developer** specializing in Flutter & Android
-* 💻 2+ years of experience in mobile application development
-* 🚀 Experienced in building and maintaining production-ready mobile applications
-* 🏗️ Interested in **Clean Architecture, MVVM & scalable app architecture**
-* 🔥 Experienced with **Firebase Authentication, Firestore, FCM, Analytics & Crashlytics**
-* 🌐 Experienced in **REST API integration and third-party API integration**
-* 💳 Experience working with **payment gateway integrations**
-* 📍 Worked with location/GPS-based features and mobile-specific functionality
-* 🌱 Currently improving my knowledge of **DSA, System Design, Backend Development & React Native**
-* 🎵 I enjoy driving, exploring new places and listening to music
-* 📫 **Email:** [rohitkhetri2002@gmail.com](mailto:rohitkhetri2002@gmail.com)
+*  **Mobile App Developer** specializing in Flutter & Android
+*  2+ years of experience in mobile application development
+*  Experienced in building and maintaining production-ready mobile applications
+*  Interested in **Clean Architecture, MVVM & scalable app architecture**
+*  Experienced with **Firebase Authentication, Firestore, FCM, Analytics & Crashlytics**
+*  Experienced in **REST API integration and third-party API integration**
+*  Experience working with **payment gateway integrations**
+*  Worked with location/GPS-based features and mobile-specific functionality
+*  Currently improving my knowledge of **DSA, System Design, Backend Development & React Native**
+*  I enjoy driving, exploring new places and listening to music
+*  **Email:** [rohitkhetri2002@gmail.com](mailto:rohitkhetri2002@gmail.com)
 
 ---
 
@@ -59,21 +59,21 @@ I have experience working with **REST APIs, Firebase, state management, payment 
 
 # 📱 Projects
 
-## 🛍️ SNT Gold – E-Commerce Mobile Application
+##  SNT Gold – E-Commerce Mobile Application
 
 A Flutter-based e-commerce application for browsing and purchasing products.
 
 ### Key Features
 
-* 🏠 Product listing and product details
-* 🔍 Product filtering and browsing
-* ❤️ Wishlist management
-* 🛒 Shopping cart
-* 📦 Order details and order management
-* 💳 Checkout flow
-* 👤 User account and profile
-* 🔐 Authentication
-* 📱 Responsive mobile UI
+*  Product listing and product details
+*  Product filtering and browsing
+*  Wishlist management
+*  Shopping cart
+*  Order details and order management
+*  Checkout flow
+*  User account and profile
+*  Authentication
+*  Responsive mobile UI
 
 ### My Contribution
 
@@ -90,17 +90,17 @@ A Flutter-based e-commerce application for browsing and purchasing products.
 
 ---
 
-## 🌴 ExploreKonkan – Travel & Exploration Application
+##  ExploreKonkan – Travel & Exploration Application
 
 A mobile application focused on exploring destinations and places across the Konkan region.
 
 ### Key Features
 
-* 📍 Location-based functionality
-* 🗺️ Explore destinations
-* 📸 Place information and media
-* 🔎 Search and discovery
-* 📱 Responsive Flutter UI
+*  Location-based functionality
+*  Explore destinations
+*  Place information and media
+*  Search and discovery
+*  Responsive Flutter UI
 
 ### My Contribution
 
@@ -122,11 +122,11 @@ A mobile application designed around automotive/garage service-related workflows
 
 ### Key Features
 
-* 🚗 Vehicle/service-related functionality
-* 👤 User management
-* 📋 Service-related workflows
-* 🌐 API integration
-* 📱 Mobile-responsive interface
+*  Vehicle/service-related functionality
+*  User management
+*  Service-related workflows
+*  API integration
+*  Mobile-responsive interface
 
 ### My Contribution
 
@@ -142,18 +142,18 @@ A mobile application designed around automotive/garage service-related workflows
 
 ---
 
-## 📅 Skedool – Scheduling & Class Management Application
+##  Skedool – Scheduling & Class Management Application
 
 A mobile application for managing schedules, classes and related activities.
 
 ### Key Features
 
-* 📅 Schedule management
-* 🏫 Class management
-* 👨‍🏫 Provider-related workflows
-* 📋 Class preview
-* 🔔 Notifications
-* 🔐 Authentication
+*  Schedule management
+*  Class management
+*  Provider-related workflows
+*  Class preview
+*  Notifications
+*  Authentication
 
 ### My Contribution
 
@@ -169,19 +169,19 @@ A mobile application for managing schedules, classes and related activities.
 
 ---
 
-## 🪙 VJB Gold – Gold & Silver Investment Application
+##  VJB Gold – Gold & Silver Investment Application
 
 A Flutter-based mobile application for **gold and silver purchasing** and **SIP (Systematic Investment Plan) creation**.
 
 ### Key Features
 
-* 🪙 Gold & silver purchasing
-* 📈 Gold/Silver SIP creation and management
-* 🏆 Coin-based reward system
-* 🎁 Coin redemption for future transactions
-* 🌐 REST API integration
-* ⚡ Performance optimization
-* 🐛 Bug fixing and application stability improvements
+*  Gold & silver purchasing
+*  Gold/Silver SIP creation and management
+*  Coin-based reward system
+*  Coin redemption for future transactions
+*  REST API integration
+*  Performance optimization
+*  Bug fixing and application stability improvements
 
 ### My Contribution
 
@@ -199,7 +199,7 @@ A Flutter-based mobile application for **gold and silver purchasing** and **SIP 
 
 ---
 
-# 🔥 Areas of Expertise
+#  Areas of Expertise
 
 ```text
 Flutter Development
@@ -223,13 +223,13 @@ Performance & Debugging
 
 ---
 
-# 📚 Currently Learning
+#  Currently Learning
 
-* ⚛️ React / React Native
-* 🧠 Data Structures & Algorithms
-* 🏗️ Mobile System Design
-* ⚙️ Advanced Flutter
-* ☁️ Backend Technologies
+*  React / React Native
+*  Data Structures & Algorithms
+*  Mobile System Design
+*  Advanced Flutter
+*  Backend Technologies
 
 ---
 
