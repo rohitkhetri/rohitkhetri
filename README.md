@@ -2,119 +2,252 @@
 
 ### 🚀 Mobile App Developer | Flutter & Android Developer
 
-I'm a passionate **Mobile App Developer** based in Pune, Maharashtra, with **2+ years of experience** building scalable, responsive, and user-friendly mobile applications.
+I'm a **Mobile App Developer** with **2+ years of experience** specializing in **Flutter, Dart, and Android development**. I enjoy building scalable, responsive, and user-friendly mobile applications with clean architecture and modern development practices.
 
-I specialize in **Flutter & Android development**, with experience in REST APIs, Firebase, state management, clean architecture, and payment integrations.
-
----
-
-### 👨‍💻 About Me
-
-*  I'm currently working as a **Mobile App Developer**
-*  Specialized in **Flutter & Android Development**
-*  Currently strengthening my skills in **Advanced Flutter, System Design, Backend Development & DSA**
-*  Experienced in building **FinTech, E-commerce, Education & Utility applications**
-*  Worked with **Payment Gateways, REST APIs & Financial APIs**
-*  Experienced with **Firebase Authentication, Firestore, FCM, Analytics & Crashlytics**
-*  Interested in **Clean Architecture, MVVM, scalable application design & performance optimization**
-*  Ask me about **Flutter, Dart, Android, Firebase, REST APIs, State Management & Mobile Development**
-*  Goal: To build high-quality products and grow as a **Software Engineer**
-*  Fun fact: I love **driving, exploring new places and listening to music**
-*  Reach me at **[rohitkhetri2002@gmail.com](mailto:rohitkhetri2002@gmail.com)**
+I have experience working with **REST APIs, Firebase, state management, payment gateways, local databases, notifications, and responsive UI development**.
 
 ---
 
-### 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-#### Mobile Development
+* 📱 **Mobile App Developer** specializing in Flutter & Android
+* 💻 2+ years of experience in mobile application development
+* 🚀 Experienced in building and maintaining production-ready mobile applications
+* 🏗️ Interested in **Clean Architecture, MVVM & scalable app architecture**
+* 🔥 Experienced with **Firebase Authentication, Firestore, FCM, Analytics & Crashlytics**
+* 🌐 Experienced in **REST API integration and third-party API integration**
+* 💳 Experience working with **payment gateway integrations**
+* 📍 Worked with location/GPS-based features and mobile-specific functionality
+* 🌱 Currently improving my knowledge of **DSA, System Design, Backend Development & React Native**
+* 🎵 I enjoy driving, exploring new places and listening to music
+* 📫 **Email:** [rohitkhetri2002@gmail.com](mailto:rohitkhetri2002@gmail.com)
 
-`Flutter` `Dart` `Android` `Kotlin` `Java`
+---
 
-#### State Management
+## 🛠️ Tech Stack
 
-`Provider` `Riverpod` `BLoC`
+### Mobile Development
 
-#### Architecture
+`Flutter` `Dart` `Android` `Kotlin` `Java` `React Native`
 
-`MVVM` `Clean Architecture` `Repository Pattern`
+### Architecture & State Management
 
-#### Backend & APIs
+`MVVM` `Clean Architecture` `Provider` `Riverpod` `BLoC`
 
-`REST APIs` `Dio` `HTTP` `Retrofit` `Express.js`
+### APIs & Networking
 
-#### Database & Cloud
+`REST APIs` `Dio` `HTTP` `Retrofit`
 
-`Firebase` `Firestore` `Supabase` `PostgreSQL` `Room Database`
+### Firebase
 
-#### Firebase
+`Firebase Authentication` `Cloud Firestore` `Firebase Cloud Messaging`
+`Firebase Analytics` `Firebase Crashlytics`
 
-`Firebase Auth` `Cloud Firestore` `FCM` `Analytics` `Crashlytics`
+### Database
 
-#### Payments
+`Room Database` `SharedPreferences` `PostgreSQL` `Supabase`
 
-`Razorpay` `Payment Gateway Integration` `Transaction Handling`
+### Payments
 
-#### Tools
+`Razorpay` `Payment Gateway Integration`
+
+### Tools
 
 `Git` `GitHub` `Android Studio` `VS Code` `Postman`
 
 ---
 
-### 📱 What I Build
+# 📱 Projects
 
-* 📲 Cross-platform mobile applications using Flutter
-* 🔐 Authentication & OTP-based login systems
-* 🌐 REST API integrations
-* 💳 Payment gateway integrations
-* 🔔 Push notifications & local notifications
-* 📍 Location & GPS-based features
-* 📊 Firebase Analytics & Crashlytics
-* 🗄️ Local database & offline data handling
-* 🏗️ Scalable application architecture
-* 🎨 Responsive and adaptive UI
+## 🛍️ SNT Gold – E-Commerce Mobile Application
 
----
+A Flutter-based e-commerce application for browsing and purchasing products.
 
-### 🚀 Featured Projects
+### Key Features
 
-#### 💰 FinTech / Payment Application
+* 🏠 Product listing and product details
+* 🔍 Product filtering and browsing
+* ❤️ Wishlist management
+* 🛒 Shopping cart
+* 📦 Order details and order management
+* 💳 Checkout flow
+* 👤 User account and profile
+* 🔐 Authentication
+* 📱 Responsive mobile UI
 
-A mobile application focused on financial transactions and payment workflows.
+### My Contribution
 
-**Tech:** Flutter • Dart • REST APIs • Firebase • Payment Gateway • MVVM/Clean Architecture
+* Developed and enhanced multiple Flutter screens
+* Implemented **Product Details, Wishlist, Cart and Order Details**
+* Worked on **Checkout and Account/Profile flows**
+* Implemented filtering and responsive UI
+* Integrated APIs and handled API responses
+* Fixed UI and functional issues across different devices
 
-#### 🛒 E-Commerce Application
+### Tech Stack
 
-A Flutter-based shopping application with product browsing, wishlist, cart, checkout and order management.
-
-**Tech:** Flutter • Dart • REST APIs • Provider • Firebase
-
-#### 🎓 School Management System
-
-A full-stack school management platform handling students, teachers, parents, attendance, academics, fees and payments.
-
-**Tech:** React • TypeScript • Express.js • PostgreSQL • Supabase • Razorpay
+**Flutter • Dart • REST APIs • Provider • Firebase • Dio**
 
 ---
 
-### 📊 GitHub Stats
+## 🌴 ExploreKonkan – Travel & Exploration Application
+
+A mobile application focused on exploring destinations and places across the Konkan region.
+
+### Key Features
+
+* 📍 Location-based functionality
+* 🗺️ Explore destinations
+* 📸 Place information and media
+* 🔎 Search and discovery
+* 📱 Responsive Flutter UI
+
+### My Contribution
+
+* Developed Flutter UI components
+* Integrated APIs
+* Worked with location-based functionality
+* Implemented responsive layouts
+* Fixed mobile-specific UI and functionality issues
+
+### Tech Stack
+
+**Flutter • Dart • REST APIs • Firebase • Geolocation**
+
+---
+
+## 🔧 Mechon Garage – Automotive Service Application
+
+A mobile application designed around automotive/garage service-related workflows.
+
+### Key Features
+
+* 🚗 Vehicle/service-related functionality
+* 👤 User management
+* 📋 Service-related workflows
+* 🌐 API integration
+* 📱 Mobile-responsive interface
+
+### My Contribution
+
+* Developed Flutter screens and reusable widgets
+* Integrated REST APIs
+* Implemented application workflows
+* Worked on UI responsiveness
+* Debugged and resolved application issues
+
+### Tech Stack
+
+**Flutter • Dart • REST APIs • Firebase**
+
+---
+
+## 📅 Skedool – Scheduling & Class Management Application
+
+A mobile application for managing schedules, classes and related activities.
+
+### Key Features
+
+* 📅 Schedule management
+* 🏫 Class management
+* 👨‍🏫 Provider-related workflows
+* 📋 Class preview
+* 🔔 Notifications
+* 🔐 Authentication
+
+### My Contribution
+
+* Worked on provider-side application flows
+* Developed and maintained **Class Preview** functionality
+* Integrated APIs and handled application state
+* Worked with notifications and scheduling-related functionality
+* Fixed UI and functional issues
+
+### Tech Stack
+
+**Flutter • Dart • Provider • REST APIs • Firebase**
+
+---
+
+## 🪙 VJB Gold – Gold & Silver Investment Application
+
+A Flutter-based mobile application for **gold and silver purchasing** and **SIP (Systematic Investment Plan) creation**.
+
+### Key Features
+
+* 🪙 Gold & silver purchasing
+* 📈 Gold/Silver SIP creation and management
+* 🏆 Coin-based reward system
+* 🎁 Coin redemption for future transactions
+* 🌐 REST API integration
+* ⚡ Performance optimization
+* 🐛 Bug fixing and application stability improvements
+
+### My Contribution
+
+* Maintained and enhanced an existing **Flutter application** used for gold and silver purchasing and SIP creation.
+* Implemented a **coin reward system**, allowing users to earn coins based on gold or silver purchases.
+* Implemented coin redemption functionality for future transactions, helping improve user engagement.
+* Integrated and consumed **REST APIs** for application functionality.
+* Fixed bugs and improved application stability.
+* Worked on performance improvements to provide a smoother user experience.
+* Followed **MVVM and Clean Architecture** principles while working on the application.
+
+### Tech Stack
+
+**Flutter • Dart • REST APIs • MVVM • Clean Architecture • API Integration**
+
+---
+
+# 🔥 Areas of Expertise
+
+```text
+Flutter Development
+        ↓
+Dart & Android
+        ↓
+REST API Integration
+        ↓
+State Management
+        ↓
+MVVM / Clean Architecture
+        ↓
+Firebase
+        ↓
+Payment Gateway Integration
+        ↓
+Responsive UI
+        ↓
+Performance & Debugging
+```
+
+---
+
+# 📚 Currently Learning
+
+* 🧠 Data Structures & Algorithms
+* 🏗️ Mobile System Design
+* ⚙️ Advanced Flutter
+* 🌐 Node.js & Backend Development
+* ⚛️ React / React Native
+* ☁️ Cloud & Backend Technologies
+
+---
+
+# 📊 GitHub Stats
 
 ![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohitkhetri\&show_icons=true\&theme=tokyonight)
 
 ---
 
-### 📫 Connect With Me
+# 🤝 Let's Connect
 
 📧 **Email:** [rohitkhetri2002@gmail.com](mailto:rohitkhetri2002@gmail.com)
 
-💼 **LinkedIn:** Add your LinkedIn profile here
+💼 **LinkedIn:** Add your LinkedIn profile
 
-🌐 **GitHub:** github.com/rohitkhetri
+💻 **GitHub:** github.com/rohitkhetri
 
 ---
 
-### ⚡ Quote
-
-> "Code. Learn. Build. Repeat. 🚀"
-
-⭐ Feel free to explore my repositories and connect with me!
+### ⚡ "Build. Learn. Improve. Repeat. 🚀"
