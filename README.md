@@ -10,17 +10,17 @@ I specialize in **Flutter & Android development**, with experience in REST APIs,
 
 ### 👨‍💻 About Me
 
-* 🔭 I'm currently working as a **Mobile App Developer**
-* 📱 Specialized in **Flutter & Android Development**
-* 🌱 Currently strengthening my skills in **Advanced Flutter, System Design, Backend Development & DSA**
-* 🏗️ Experienced in building **FinTech, E-commerce, Education & Utility applications**
-* 💳 Worked with **Payment Gateways, REST APIs & Financial APIs**
-* 🔥 Experienced with **Firebase Authentication, Firestore, FCM, Analytics & Crashlytics**
-* 🧠 Interested in **Clean Architecture, MVVM, scalable application design & performance optimization**
-* 💬 Ask me about **Flutter, Dart, Android, Firebase, REST APIs, State Management & Mobile Development**
-* 🎯 Goal: To build high-quality products and grow as a **Software Engineer**
-* 🎵 Fun fact: I love **driving, exploring new places and listening to music**
-* 📫 Reach me at **[rohitkhetri2002@gmail.com](mailto:rohitkhetri2002@gmail.com)**
+*  I'm currently working as a **Mobile App Developer**
+*  Specialized in **Flutter & Android Development**
+*  Currently strengthening my skills in **Advanced Flutter, System Design, Backend Development & DSA**
+*  Experienced in building **FinTech, E-commerce, Education & Utility applications**
+*  Worked with **Payment Gateways, REST APIs & Financial APIs**
+*  Experienced with **Firebase Authentication, Firestore, FCM, Analytics & Crashlytics**
+*  Interested in **Clean Architecture, MVVM, scalable application design & performance optimization**
+*  Ask me about **Flutter, Dart, Android, Firebase, REST APIs, State Management & Mobile Development**
+*  Goal: To build high-quality products and grow as a **Software Engineer**
+*  Fun fact: I love **driving, exploring new places and listening to music**
+*  Reach me at **[rohitkhetri2002@gmail.com](mailto:rohitkhetri2002@gmail.com)**
 
 ---
 
